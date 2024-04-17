@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6aWzz6ZmR2UekzriTvCX84PVnpPJg+6trH5VmAGx61IUHo9q9WgwyGYvU6b4zJGD4SOwwFbmGldKBsumdjAkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GIS\\Downloads\\AirportManagement-OmarAddouli 1\\AirportManagement\\AM.Core.Services\\AM.Core.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GIS\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.9\\microsoft.entityframeworkcore.abstractions.6.0.9.nupkg.sha512",
+    "C:\\Users\\GIS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\GIS\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\GIS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
